@@ -8,4 +8,4 @@ puts "What day of #{month} is the party?"
 day = gets.chomp
 
 puts "Dear #{guest_name},"
-puts "Please come to my party, #{party_name.capitalize}!"
+puts "Please come to my party, #{party_name.capitalize}! It's on the #{day} of #{month}."
